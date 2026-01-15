@@ -14,6 +14,6 @@ assignees: ''
 ---
 ### 1. `function`
 - summary
-```(python)
+```python
 <code>
 ```
